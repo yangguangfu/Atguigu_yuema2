@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("约炮功能已经开发完成，已经加上定位功能了，可以找到附近的妹子了");
         System.out.println("版本更新了");      
 		//版本更新了   
-          System.out.println("过滤涉黄用户");      
+          System.out.println("过滤涉黄用户");    
+           System.out.println("hellobenji添加了一行测试代码");
 	}
 }
